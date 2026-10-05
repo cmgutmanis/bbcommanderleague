@@ -3,6 +3,7 @@
 1 Adaptive Shimmerer
 1 Airship Crash
 1 Ajani's Response
+1 Alpine Watchdog
 1 Ancient Animus
 1 Ancient Copper Dragon
 1 Applied Geometry
@@ -10,8 +11,10 @@
 2 Artillery Blast
 1 Bashful Beastie
 1 Bearer of Glory
+1 Blighted Blackthorn
 1 Blitz of the Thunder-Raptor
 1 Bonecache Overseer
+1 Boneclub Berserker
 1 Boughside Wanderers
 1 Brave-Kin Duo
 1 Bristling Backwoods
@@ -20,11 +23,14 @@
 1 Carrier Thrall
 1 Casualties of War
 1 Celebrity Fencer
+1 Chandra's Magmutt
 1 Channeled Dragonfire
 1 Cindering Cutthroat
+1 Clash of Elements
 1 Cold-Water Snapper
 1 Commandeer
 1 Council's Deliberation
+1 Crash Through
 1 Crossroads Village
 1 Cruel Celebrant
 1 Daggerfang Duo
@@ -39,16 +45,19 @@
 1 Disciplined Duelist
 1 Dispelling Exhale
 1 Divination
+1 Draconic Visitor
 1 Dusyut Earthcarver
 1 Eagle of the Great Shelf
 1 Elixir
 1 Elven Raft-Steerer
 1 Emerald Dragon
+1 Emergency Phytomedic
 1 Emptiness
 1 Encouraging Aviator
 1 Ennis, Debate Moderator
 1 Ent's Fury
 1 Excavation Elephant
+1 Experimental Overload
 1 Explorer's Scope
 1 Fact or Fiction
 1 Failed Fording
@@ -58,18 +67,23 @@
 1 Fierce Witchstalker
 1 Fight as One
 1 Filigree Attendant
+1 Flock Impostor
 1 Frost Lynx
 1 Full Steam Ahead
 1 Gaea's Blessing
 1 Garna, Bloodfist of Keld
 1 Giant's Boulder
 1 Gimli's Fury
+1 Glen Elendra Guardian
 1 Gloom Pangolin
 1 Gollum the Abandoned
 1 Goobbue Gardener
+1 Graft Surgeon
+1 Grasp of Darkness
 1 Great Hall of the Citadel
 1 Gremlin Tamer
 1 Grumgully, the Generous
+1 Hapatra, the Desert Frost
 1 Hardened Escort
 1 Heartfire
 1 Heartless Pillage
@@ -82,8 +96,12 @@
 1 Join Forces
 1 Joint Exploration
 1 Joshua, Phoenix's Dominant
+1 Keen Glidemaster
+1 Keep Out
 1 Keeper of Fables
 1 Kheru Goldkeeper
+1 Kiora of Fire and Ashes
+1 Kiora of Salt and Sand
 1 Knockout Blow
 1 Kodama's Reach
 1 Kraul Stinger
@@ -91,6 +109,7 @@
 1 Lazav, Familiar Stranger
 1 Loporrit Scout
 1 Lothlórien Lookout
+1 Lys Alana Informant
 1 Mabel's Mettle
 1 Maestros Ascendancy
 1 Magnificent End
@@ -106,8 +125,11 @@
 1 Mirkwood Meditator
 1 Mirkwood Nurturer
 1 Monastery Messenger
+1 Moonglove Extractor
 1 Murder
 1 Murky Sewer
+1 Murmuring Volume
+1 Niambi, Esteemed Speaker
 1 Nightblade Brigade
 1 Nori, Teller of Tales
 1 Oathsworn Knight
@@ -119,6 +141,7 @@
 1 Peregrin Took
 1 Perimeter Sergeant
 1 Pest Mascot
+1 Pestered Wellguard
 1 Phantom Interference
 1 Phase Dolphin
 1 Phyrexian Gargantua
@@ -138,11 +161,13 @@
 1 Raggadragga, Goreguts Boss
 1 Ravening Warg
 1 Razzle-Dazzler
+1 Reaping Willow
 1 Return the Favor
 1 Rigo, Streetwise Mentor
 1 Rinoa Heartilly
 1 Roamer's Routine
 1 Rooftop Assassin
+1 Room of Refuge
 1 Run Away Together
 1 Run Out of Town
 1 Rust-Shield Rampager
@@ -153,32 +178,40 @@
 1 Scorpion Sentinel
 2 Sea Gate
 1 Sea Hag
+1 Sear
 1 Sentinel of the Pearl Trident
+1 Setessan Training
 1 Shadow Prophecy
 1 Shadow-Rite Priest
 1 Shining Armor
 1 Siege-Gang Commander
 1 Silverquill Charm
+1 Skilled Battlecarver
 1 Skyline Despot
 1 Slash of Light
 1 Smash to Dust
 1 Smaug's Fury
 1 Smitten Swordmaster
+1 Solve for Disappointment
 1 Sorin's Thirst
 1 Spectral Snatcher
 1 Spellkeeper Weird
 1 Splash Portal
 1 Splendor Mare
 1 Stadium Tidalmage
+1 Staunch Shieldmate
 1 Stone of Erech
 1 Stone-Giant of High Pass
 1 Sudden Spinnerets
+1 Surgical Precision
 1 Swallowed by Leviathan
 1 Swamp
+1 Swift Response
 1 Sword Coast Serpent
 1 Syr Faren, the Hengehammer
 1 Take Up the Shield
 1 Tavern Brawler
+1 Temporal Cleansing
 1 Temur Tawnyback
 1 Tenured Concocter
 1 Terramorphic Expanse
@@ -191,23 +224,29 @@
 1 Thunder Drake
 1 Thunder Magic
 1 Thunder of Unity
-1 Titanic Growth
+2 Titanic Growth
 1 Tolarian Scholar
+1 Tormod's Crypt
 1 Tragic Slip
 1 Tramway Station
 1 Tuinvale Treefolk
 1 Turret Ogre
 1 Tuskguard Captain
+1 Tweeze
 1 Twin Bolt
 1 Unbounded Potential
 1 Underwater Tunnel/Slimy Aquarium
+1 Undulating Witness
+1 Unexpected Assistance
 1 Unstoppable Slasher
 1 Unsubtle Mockery
 1 Vadrok, Apex of Thunder
 1 Valduk, Keeper of the Flame
 1 Vile Mutilator
+1 Village Rites
 1 Visage Bandit
 1 Vulpikeet
+1 Warden of the Woods
 1 Warlord's Fury
 1 Whiskervale Forerunner
 1 Whisper Squad
@@ -218,6 +257,3 @@
 1 Wyll, Blade of Frontiers
 1 Xantcha, Sleeper Agent
 1 Youthful Knight
-
-1 Dragon Cultist
-1 Halsin, Emerald Archdruid
