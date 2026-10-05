@@ -1,0 +1,74 @@
+1 Abrade
+1 Adaptive Shimmerer
+1 Airship Crash
+1 Ancient Animus
+1 Ancient Copper Dragon
+1 Blitz of the Thunder-Raptor
+1 Boughside Wanderers
+1 Bristling Backwoods
+1 Channeled Dragonfire
+1 Crossroads Village
+1 Dance of the Tumbleweeds
+1 Dusyut Earthcarver
+1 Emerald Dragon
+1 Ent's Fury
+1 Explorer's Scope
+1 Ferocious Tigorilla
+1 Fierce Witchstalker
+18 Forest
+1 Full Steam Ahead
+1 Gaea's Blessing
+1 Giant's Boulder
+1 Gimli's Axe
+1 Gimli's Fury
+1 Goobbue Gardener
+1 Great Hall of the Citadel
+1 Grumgully, the Generous
+1 Heartfire
+1 Hell to Pay
+1 Idol of Oblivion
+1 Impossible Inferno
+1 Iron-Fist Pulverizer
+1 Keeper of Fables
+1 Kodama's Reach
+1 Kraul Stinger
+1 Malevolent Chandelier
+1 Mana Geode
+1 Merchant of the Vale
+1 Migratory Greathorn
+14 Mountain
+1 Opal Palace
+1 Pardic Wanderer
+1 Peregrin Took
+1 Pick Your Poison
+1 Pollenbright Druid
+1 Prophet of the Peak
+1 PuPu UFO
+1 Pyroclasm
+1 Raccoon Rallier
+1 Raggadragga, Goreguts Boss
+1 Return the Favor
+1 Roamer's Routine
+1 Rust-Shield Rampager
+1 Scorching Dragonfire
+1 Siege-Gang Commander
+1 Skyline Despot
+1 Smash to Dust
+1 Smaug's Fury
+1 Stone of Erech
+1 Stone-Giant of High Pass
+1 Sudden Spinnerets
+1 Terramorphic Expanse
+1 Three Tree Mascot
+1 Tuinvale Treefolk
+1 Turret Ogre
+1 Tuskguard Captain
+1 Twin Bolt
+1 Unsubtle Mockery
+1 Warlord's Fury
+
+SIDEBOARD:
+1 Lothlórien Lookout
+
+1 Dragon Cultist
+1 Halsin, Emerald Archdruid
