@@ -1,0 +1,223 @@
+1 Abdel Adrian, Gorion's Ward
+1 Abrade
+1 Adaptive Shimmerer
+1 Airship Crash
+1 Ajani's Response
+1 Ancient Animus
+1 Ancient Copper Dragon
+1 Applied Geometry
+1 Aron, Benalia's Ruin
+2 Artillery Blast
+1 Bashful Beastie
+1 Bearer of Glory
+1 Blitz of the Thunder-Raptor
+1 Bonecache Overseer
+1 Boughside Wanderers
+1 Brave-Kin Duo
+1 Bristling Backwoods
+1 Builder's Talent
+1 Call the Cavalry
+1 Carrier Thrall
+1 Casualties of War
+1 Celebrity Fencer
+1 Channeled Dragonfire
+1 Cindering Cutthroat
+1 Cold-Water Snapper
+1 Commandeer
+1 Council's Deliberation
+1 Crossroads Village
+1 Cruel Celebrant
+1 Daggerfang Duo
+1 Dance of the Tumbleweeds
+1 Danitha, Benalia's Hope
+1 Davriel's Shadowfugue
+1 Deal Gone Bad
+1 Demon's Due
+1 Demonic Vigor
+1 Descendant of Storms
+1 Dina's Guidance
+1 Disciplined Duelist
+1 Dispelling Exhale
+1 Divination
+1 Dusyut Earthcarver
+1 Eagle of the Great Shelf
+1 Elixir
+1 Elven Raft-Steerer
+1 Emerald Dragon
+1 Emptiness
+1 Encouraging Aviator
+1 Ennis, Debate Moderator
+1 Ent's Fury
+1 Excavation Elephant
+1 Explorer's Scope
+1 Fact or Fiction
+1 Failed Fording
+1 Fear of Immobility
+1 Fencing Ace
+1 Ferocious Tigorilla
+1 Fierce Witchstalker
+1 Fight as One
+1 Filigree Attendant
+1 Frost Lynx
+1 Full Steam Ahead
+1 Gaea's Blessing
+1 Garna, Bloodfist of Keld
+1 Giant's Boulder
+1 Gimli's Fury
+1 Gloom Pangolin
+1 Gollum the Abandoned
+1 Goobbue Gardener
+1 Great Hall of the Citadel
+1 Gremlin Tamer
+1 Grumgully, the Generous
+1 Hardened Escort
+1 Heartfire
+1 Heartless Pillage
+1 Hell to Pay
+1 Idol of Oblivion
+1 Impossible Inferno
+1 Inevitable Defeat
+1 Invade the City
+1 Iron-Fist Pulverizer
+1 Join Forces
+1 Joint Exploration
+1 Joshua, Phoenix's Dominant
+1 Keeper of Fables
+1 Kheru Goldkeeper
+1 Knockout Blow
+1 Kodama's Reach
+1 Kraul Stinger
+1 Lakeshore Apothecary
+1 Lazav, Familiar Stranger
+1 Loporrit Scout
+1 Lothlórien Lookout
+1 Mabel's Mettle
+1 Maestros Ascendancy
+1 Magnificent End
+1 Malboro
+1 Malevolent Chandelier
+1 Mana Geode
+1 Marble Diamond
+1 Melek, Izzet Paragon
+1 Merchant of the Vale
+1 Merfolk Secretkeeper
+1 Migratory Greathorn
+1 Mindful Biomancer
+1 Mirkwood Meditator
+1 Mirkwood Nurturer
+1 Monastery Messenger
+1 Murder
+1 Murky Sewer
+1 Nightblade Brigade
+1 Nori, Teller of Tales
+1 Oathsworn Knight
+1 Opal Palace
+1 Paradox Gardens
+1 Pardic Wanderer
+1 Patch Up
+1 Pearl of Wisdom
+1 Peregrin Took
+1 Perimeter Sergeant
+1 Pest Mascot
+1 Phantom Interference
+1 Phase Dolphin
+1 Phyrexian Gargantua
+1 Phyrexian Rager
+1 Pick Your Poison
+1 Pileated Provisioner
+1 Pollenbright Druid
+1 Pouncing Lynx
+1 Priest of the Blood Rite
+1 Primordial Wurm
+1 Prophet of the Peak
+1 Pull from the Grave
+1 PuPu UFO
+1 Pyroclasm
+1 Quick Study
+1 Raccoon Rallier
+1 Raggadragga, Goreguts Boss
+1 Ravening Warg
+1 Razzle-Dazzler
+1 Return the Favor
+1 Rigo, Streetwise Mentor
+1 Rinoa Heartilly
+1 Roamer's Routine
+1 Rooftop Assassin
+1 Run Away Together
+1 Run Out of Town
+1 Rust-Shield Rampager
+1 Sacred Peaks
+1 Sanctum of Tranquil Light
+1 Scolding Administrator
+1 Scorching Dragonfire
+1 Scorpion Sentinel
+2 Sea Gate
+1 Sea Hag
+1 Sentinel of the Pearl Trident
+1 Shadow Prophecy
+1 Shadow-Rite Priest
+1 Shining Armor
+1 Siege-Gang Commander
+1 Silverquill Charm
+1 Skyline Despot
+1 Slash of Light
+1 Smash to Dust
+1 Smaug's Fury
+1 Smitten Swordmaster
+1 Sorin's Thirst
+1 Spectral Snatcher
+1 Spellkeeper Weird
+1 Splash Portal
+1 Splendor Mare
+1 Stadium Tidalmage
+1 Stone of Erech
+1 Stone-Giant of High Pass
+1 Sudden Spinnerets
+1 Swallowed by Leviathan
+1 Swamp
+1 Sword Coast Serpent
+1 Syr Faren, the Hengehammer
+1 Take Up the Shield
+1 Tavern Brawler
+1 Temur Tawnyback
+1 Tenured Concocter
+1 Terramorphic Expanse
+2 The Bath Song
+1 The Wanderer
+1 Thornwood Falls
+1 Three Tree Mascot
+1 Thriving Heath
+1 Thryx, the Sudden Storm
+1 Thunder Drake
+1 Thunder Magic
+1 Thunder of Unity
+1 Titanic Growth
+1 Tolarian Scholar
+1 Tragic Slip
+1 Tramway Station
+1 Tuinvale Treefolk
+1 Turret Ogre
+1 Tuskguard Captain
+1 Twin Bolt
+1 Unbounded Potential
+1 Underwater Tunnel/Slimy Aquarium
+1 Unstoppable Slasher
+1 Unsubtle Mockery
+1 Vadrok, Apex of Thunder
+1 Valduk, Keeper of the Flame
+1 Vile Mutilator
+1 Visage Bandit
+1 Vulpikeet
+1 Warlord's Fury
+1 Whiskervale Forerunner
+1 Whisper Squad
+1 Wickerfolk Thresher
+1 Wilson, Refined Grizzly
+1 Wizard's Rockets
+2 Wretched Confluence
+1 Wyll, Blade of Frontiers
+1 Xantcha, Sleeper Agent
+1 Youthful Knight
+
+1 Dragon Cultist
+1 Halsin, Emerald Archdruid
